@@ -1,0 +1,15 @@
+node_modules
+deploy/node_modules
+.git
+.gitignore
+.dockerignore
+deploy/.env
+deploy/*.config
+deploy/*.env
+docker-compose.yml
+Dockerfile
+Dockerfile.dev
+*.log
+flats
+contracts.sublime-project
+contracts.sublime-workspace

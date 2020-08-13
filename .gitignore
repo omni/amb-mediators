@@ -1,0 +1,11 @@
+node_modules
+build
+flats
+.node*
+.idea
+coverage
+*.sublime-*
+.0x-artifacts
+deploy/.env
+deploy/*.config
+deploy/*.env
